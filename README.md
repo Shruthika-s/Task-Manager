@@ -27,6 +27,11 @@ Displaying of tasks
 Marking tasks as complete
 ![image](https://github.com/rishitsura/Task-Manager/assets/115737321/747d923b-60c8-4058-9c6e-0c4f61a15909)
 
+##Contributors
+Rishit Sura
+Shruthika Sunku
+Suhas Uppala
+
 ## Live Website
 Try it out here ---> [Click me!](https://rishitsura.github.io/Task-Manager/) 🌐
 
